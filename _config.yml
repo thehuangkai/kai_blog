@@ -19,15 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Blog
-description: Just a simple guy, living in a not-so-simple world
+author: Kai Huang
+description: A simple guy, living in a not-so-simple world
 baseurl: /
 url: https://thehuangkai.github.io
-linkedin_username: https://www.linkedin.com/in/huangkai0705/
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
