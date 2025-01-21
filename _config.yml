@@ -18,16 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kai Blog
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Blog
+description: Just a simple guy, living in a not-so-simple world
 baseurl: /
 url: https://thehuangkai.github.io
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username: https://www.linkedin.com/in/huangkai0705/
 
 # Build settings
 theme: minima
